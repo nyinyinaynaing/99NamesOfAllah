@@ -3,12 +3,12 @@ body {
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #15808e;
     direction: ltr;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #03052f;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -41,7 +41,7 @@ h1 {
 .name-card h2 {
     margin: 0;
     font-size: 1.5em;
-    color: #4CAF50;
+    color: white;
 }
 
 .name-card p {
